@@ -1,13 +1,13 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
+  github: 'https://github.com/rudemex',
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix: ' – Nextra',
+  titleSuffix: ' - Mex Delgado',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
-      <span className="text-gray-600 font-normal hidden md:inline">
+      <span className="mr-2 font-extrabold hidden md:inline">Mex Delgado</span>
+      {/*<span className="text-gray-600 font-normal hidden md:inline">
         The Next.js Static Site Generator
-      </span>
+      </span>*/}
     </>
   ),
   head: (
@@ -57,11 +57,11 @@ export default {
       <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
     </>
   ),
-  search: true,
+  search: false,
   prevLinks: true,
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
   footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
-  unstable_faviconGlyph: '👋',
+  unstable_faviconGlyph: '👨‍💻',
 }
