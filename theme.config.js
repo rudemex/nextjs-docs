@@ -2,6 +2,7 @@ export default {
   github: 'https://github.com/rudemex',
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
   titleSuffix: ' - Mex Delgado',
+  darkMode: true,
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Mex Delgado</span>
