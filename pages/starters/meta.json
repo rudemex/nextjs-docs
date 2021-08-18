@@ -1,0 +1,7 @@
+{
+  "fb-messenger-bot": "Facebook & Workplace Chat Bot",
+  "cypress-e2e-testing": "Cypress End-to-end Testing",
+  "nestjs-starter": "BFF/MS NestJs",
+  "node-express-starter": "BFF/MS Express (ES)",
+  "node-typescript-express-starter": "BFF/MS Express (TS)"
+}
