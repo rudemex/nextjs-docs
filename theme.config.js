@@ -42,7 +42,7 @@ export default {
       <meta name="theme-color" content="#ffffff" />
     </>
   ),
-  search: false,
+  search: true,
   prevLinks: true,
   nextLinks: true,
   footer: true,
